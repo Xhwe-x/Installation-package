@@ -43,9 +43,9 @@
 4. 安装 `Rainmeter-4.5.26.exe`，将 `05_桌面美化/Skins` 内的皮肤放置到系统的 `Documents/Rainmeter/Skins/` 目录下即可启用音频条等效果。
 
 ### 4. CAD 与天正电气安装说明
-1. 从 Releases 中下载 `AutoCAD_2024` 的分卷文件，保持在同一目录下解压后运行 `Setup.exe`。
-2. 安装 `T20V10.0天正电气.zip`。
-3. 将 `CAD字体.zip` 解压后的所有 `.shx` 字体文件复制到 AutoCAD 根目录下的 `Fonts` 文件夹内，可彻底解决打开工程图纸时出现的繁体乱码或问号问题。
+1. 从 Releases 中下载 `AutoCAD_2024_Split.zip` 和 `AutoCAD_2024_Split.z01`，保持在同一文件夹下，直接解压 `AutoCAD_2024_Split.zip` 即可得到完整安装包，解压后运行 `Setup.exe`。
+2. 安装解压 `T20V10.0.zip`。
+3. 将 `CAD_Fonts_6088.zip` 解压后的所有 `.shx` 字体文件复制到 AutoCAD 根目录下的 `Fonts` 文件夹内，可彻底解决打开工程图纸时出现的繁体乱码或问号问题。
 
 ---
 
