@@ -9,9 +9,9 @@
 
 | 类别 | 软件名称 | 版本号 / 说明 | 存放位置 / 获取方式 |
 | :--- | :--- | :--- | :--- |
-| **01 社交通讯** | **腾讯 QQ** | `9.7.25.29417`（经典版，无虚幻引擎臃肿功能） | [Releases 下载](https://github.com/Xhwe-x/Installation-package/releases) |
-| | **微信电脑版** | `4.1.6`（纯净稳定版） | [Releases 下载](https://github.com/Xhwe-x/Installation-package/releases) |
-| **02 办公文档** | **WPS Office** | `15374`（稳定纯净版，去除弹窗推广） | [Releases 下载](https://github.com/Xhwe-x/Installation-package/releases) |
+| **01 社交通讯** | **腾讯 QQ** | `9.7.25.29417`（经典版，无虚幻引擎臃肿功能） | [QQ-9.7.25.29417 专属留档页](https://github.com/Xhwe-x/Installation-package/releases/tag/QQ-9.7.25.29417) |
+| | **微信电脑版** | `4.1.6`（纯净稳定版） | [WeChat-4.1.6 专属留档页](https://github.com/Xhwe-x/Installation-package/releases/tag/WeChat-4.1.6) |
+| **02 办公文档** | **WPS Office** | `15374`（稳定纯净版，去除弹窗推广） | [WPS-15374 专属留档页](https://github.com/Xhwe-x/Installation-package/releases/tag/WPS-15374) |
 | | **Typora** | Windows 64位版（经典 Markdown 离线编辑器，附 `app.asar`） | 仓库内直接集成 |
 | | **PDFBinder** | `v1.2` 绿色汉化版（极简单文件 PDF 合并工具） | 仓库内直接集成 |
 | **03 系统工具** | **Geek Uninstaller** | `geek.exe` 单文件绿色版（深度卸载与残留注册表清除） | 仓库内直接集成 |
@@ -20,9 +20,9 @@
 | **05 桌面美化** | **Rainmeter** | `v4.5.26`（雨滴桌面美化平台，附精选 Skins 皮肤） | 仓库内直接集成 |
 | | **TranslucentTB** | 任务栏透明化工具 | 仓库内直接集成 |
 | | **Winstep Nexus** | 仿 macOS 动效 Dock 栏（含 `wsbackup` 预设参数） | 仓库内直接集成 |
-| **06 工程制图** | **AutoCAD 2024** | 官方安装包（分卷压缩，免去版本冲突） | [Releases 下载](https://github.com/Xhwe-x/Installation-package/releases) |
-| | **天正电气 T20** | `V10.0`（建筑电气设计专业套件） | [Releases 下载](https://github.com/Xhwe-x/Installation-package/releases) |
-| | **CAD 字体大全** | 6088个精选 `shx` / `ttf` 字体（杜绝图纸文字显示问号） | [Releases 下载](https://github.com/Xhwe-x/Installation-package/releases) |
+| **06 工程制图** | **AutoCAD 2024** | 官方安装包（分卷压缩，免去版本冲突） | [AutoCAD-2024 专属留档页](https://github.com/Xhwe-x/Installation-package/releases/tag/AutoCAD-2024) |
+| | **天正电气 T20** | `V10.0`（建筑电气设计专业套件） | [T20V10.0-TianZheng 专属留档页](https://github.com/Xhwe-x/Installation-package/releases/tag/T20V10.0-TianZheng) |
+| | **CAD 字体大全** | 6088个精选 `shx` / `ttf` 字体（杜绝图纸文字显示问号） | [CAD-Fonts-6088 专属留档页](https://github.com/Xhwe-x/Installation-package/releases/tag/CAD-Fonts-6088) |
 
 ---
 
