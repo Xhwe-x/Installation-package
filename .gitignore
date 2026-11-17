@@ -2,12 +2,11 @@
 _本地私密与排除/
 *.csv
 
-# 大于 100MB 的文件（GitHub 限制单文件不能超过 100MB，将托管在 GitHub Releases 中）
+# 大于 100MB 的文件（GitHub 限制单文件不能超过 100MB，已托管在 GitHub Releases 中）
 01_社交通讯/*.exe
 02_办公文档/WPS_Setup_15374.exe
-06_工程制图/AutoCAD_2024.zip
-06_工程制图/CAD字体.zip
-06_工程制图/T20V10.0天正电气.zip
+06_工程制图/*.zip
 06_工程制图/*.z0*
+06_工程制图/*Split*
 06_工程制图/*分卷*
 *.tmp
